@@ -74,6 +74,6 @@
   - ネットワークスペシャリスト
       
 # Contact
-mail : hiroyannnn@gmail.com
-note : https://note.mu/hiroyannnn
-Qiita : https://qiita.com/hiroyannnn
+- mail : hiroyannnn@gmail.com  
+- note : https://note.mu/hiroyannnn  
+- Qiita : https://qiita.com/hiroyannnn  
