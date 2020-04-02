@@ -1,25 +1,25 @@
-# プロフィール
+## プロフィール
 - 1990 10 18 生
 
 
-# 職歴（概要） 
+## 職歴（概要） 
 - 受託 開発 現在
 - 自社サービス 開発1年
 - 自社サービス インフラ1年
 - SI インフラ4年
 
 
-# 今興味あること、やっていること
+## 今興味あること、やっていること
 - Jupyterを使用したデータ解析
 - Nuxt.js × firebaseを使ったPWA
 - React.jsを使用した広告配信系システムの構築
 
-# 今興味あるけど、やれていないこと
+## 今興味あるけど、やれていないこと
 - 心からコミットしたいプロジェクトにエンジニアとして関わる
 - 英語を学ばざるをえない環境に身を置くこと
 
 
-# 職歴（詳細） 
+## 職歴（詳細） 
 - 2019 4 ~ 現在 個人事業主　Adtech系の受託会社と契約
   - 屋外広告配信システム開発
   - ポジション PG
@@ -66,7 +66,7 @@
     - WindowsServer2008
       - AD
 
-# 資格
+## 資格
 - ベンダ系
   - Lpic303
   - ITIL 
@@ -74,8 +74,5 @@
   - RISS
   - ネットワークスペシャリスト
       
-# Contact
+## Contact
 - mail : [hiroyannnn@gmail.com](hiroyannnn@gmail.com)
-- note : [https://note.mu/hiroyannnn](https://note.mu/hiroyannnn)
-- Qiita : [https://qiita.com/hiroyannnn](https://qiita.com/hiroyannnn)
-- blog : [https://hiroyannnn.hatenablog.com/](https://hiroyannnn.hatenablog.com/)
