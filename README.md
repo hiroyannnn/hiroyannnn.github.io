@@ -2,7 +2,12 @@
 - 1990 10 18 生
 
 
-## 職歴（概要） 
+## OBJECTIVE
+## QUALIFICATIONS
+## WORK EXPERIENCE
+## EDUCATION
+B.A. in Faculty of Regional Studies, Gifu University = Gifu, Japan 2013
+
 - 受託 開発 現在
 - 自社サービス 開発1年
 - 自社サービス インフラ1年
