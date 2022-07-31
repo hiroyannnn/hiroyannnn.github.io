@@ -1,14 +1,45 @@
-## プロフィール
-- 1990 10 18 生
-
-
 ## OBJECTIVE
-## QUALIFICATIONS
-## WORK EXPERIENCE
-## EDUCATION
-B.A. in Faculty of Regional Studies, Gifu University = Gifu, Japan 2013
 
-- 受託 開発 現在
+## QUALIFICATIONS
+
+## WORK EXPERIENCE
+SRE Engineer
+Jul 2020 - Present
+KADOKAWA Connected Inc. Tokyo, JAPAN.
+- As an SRE engineer for KADOKAWA's website, I operated and improved the PaaS environment.
+
+Web Developer
+Apl 2019 - Jun 2020
+Solo proprietorship
+- Full stack web developer responsible for end-to-end web app development 
+
+Java Developer
+May 2018 - Mar 2019
+KAKEHASHI SKYSOLUTIONS CO.,LTD. Tokyo, JAPAN.
+- Developed an applicant management system.
+- Developed the crawling system and collected information from at 5+ job sites.
+
+Infra Engineer
+Apl 2013 - Apl 2018
+COMIT CO.,LTD. Tokyo, JAPAN.
+- Cloud lift of internal systems for SMEs using Azure, 1 implementation and 6 companies in operation and maintenance.
+- Performed SI for financial systems, Implemented Linux OS parameter changes,　Create maintenance schedules by summarizing the work items of at least 5 teams.
+
+
+## EDUCATION
+B.A. in Faculty of Regional Studies, Gifu University - Gifu, Japan 2013
+
+## CERTIFICATION
+- Fundamental Information Technology Engineer Examination
+- Applied Information Technology Engineer Examination
+- Network Specialist Examination
+- Information Security Specialist Examination
+- ITIL v3 Foundation
+
+
+
+
+<!-- - 受託 開発 現在
 - 自社サービス 開発1年
 - 自社サービス インフラ1年
 - SI インフラ4年
@@ -80,4 +111,4 @@ B.A. in Faculty of Regional Studies, Gifu University = Gifu, Japan 2013
   - ネットワークスペシャリスト
       
 ## Contact
-- mail : [hiroyannnn@gmail.com](hiroyannnn@gmail.com)
+- mail : [hiroyannnn@gmail.com](hiroyannnn@gmail.com) -->
